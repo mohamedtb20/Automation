@@ -3,11 +3,15 @@
 so I build this repository to share what I had done to save my time with Python.
 
 # My_contact_For_Blockchain_development
-[Twitter :](https://www.google.com)
-[linkedin]()
-[reddit]()
-[Stack Overflow]()
-[my email]
+[My Twitter related to Blockchain development](https://twitter.com/Mohammedtb_)
+
+[My linkedin related to Blockchain development]()
+
+[My reddit related to Blockchain development](https://www.reddit.com/user/MohammedTbb)
+
+[My Stack Overflow related to Blockchain development](https://stackoverflow.com/users/18767021/mohammed-tb)
+
+[my email](mailto:Mohammed.Tiba@hotmail.com)
 
 # My_contact_For_Cyber_security
 [My Twitter related to cyber security](https://twitter.com/MohammedTbb2)
