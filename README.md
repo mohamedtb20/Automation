@@ -24,3 +24,5 @@ so I build this repository to share what I had done to save my time with Python.
 
 [my email](mailto:Mohammed.tiba2@hotmail.com)
 
+# About directories
+you will find a README.MD file with every directory which can help you to understand the code file well and to install all necessary things 
