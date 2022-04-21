@@ -21,7 +21,7 @@ time.sleep(2)
 # we locate our element by name
 username = driver.find_element_by_name("text")
 # filling the informations
-username.send_keys('MohammedTiba8')
+username.send_keys('your_username')
 time.sleep(5)
 # click on Next button we use the css selector with the class
 Next = driver.find_element_by_css_selector(
@@ -29,7 +29,7 @@ Next = driver.find_element_by_css_selector(
 Next.click()
 time.sleep(2)
 password = driver.find_element_by_name("password")
-password.send_keys('hamid0000')
+password.send_keys('your_password')
 time.sleep(2)
 # click on log in
 log = driver.find_element_by_css_selector('div.css-1dbjc4n.r-pw2am6')
