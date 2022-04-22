@@ -19,3 +19,14 @@ around 30 minutes for 1 connection
 0.5minutes*10 =5 minutes
  
 with this code, you can do it in less than 1 minute full automated
+
+# required 
+Selenium :To install selenium type the below command in the terminal. 
+
+('pip install selenium')
+
+Pyautogui : To install pyautogui type the below command in the terminal. 
+
+('pip install pyautogui')
+
+Chrome web driver  : To download chrome web driver [click here](https://chromedriver.chromium.org/downloads)
