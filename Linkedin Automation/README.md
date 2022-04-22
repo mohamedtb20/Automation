@@ -1,8 +1,8 @@
 # why you should use automation code for linkedin connections 
 
 How much does it take for you to send 10 connections to people on LinkedIn:
-5-10 seconds: to log in
-for 1 connection 
+5-10 seconds: to log in                                                                                                                                                   
+for 1 connection                                                                                                                                                      
 1-3 seconds: to search
 1-3 seconds: to enter the profile 
 2 seconds: to click connect
